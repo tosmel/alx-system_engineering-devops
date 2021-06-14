@@ -1,0 +1,1 @@
+#This are the commands for shell redirections mandatory in all ALX School projects
